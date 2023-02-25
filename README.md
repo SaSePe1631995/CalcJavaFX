@@ -1,4 +1,5 @@
 # CalcJavaFX
-Simple calculator which coded with JavaFX (Java)
 
-Implemented the basic mathematical operations, as well as the calculation of the percentage value. The calculator does not accept more than two numbers for operations.
+Программа представляет собой простейший калькулятор
+
+В ней реализованы базовые математические операции сложения / вычитания / умножения / деления, ввод дробных чисел, а также математические операции с процентами
